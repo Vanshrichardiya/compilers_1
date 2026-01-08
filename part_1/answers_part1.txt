@@ -1,0 +1,14 @@
+3.a: 
+  1. #include<stdio.h> is fully expanded.
+  2. MESSAGE variable is replced by literal string "Hello from CS327")
+  3. line starting with # containing number of lines and filename has been added in hello.i for debugging purpose.
+
+3.b:
+Total number of lines in hello.s: 44 lines
+first 10 lines of the file has been set for file info, they store the string message and marks the starting of the main function.
+
+3.c:
+
+size of hello.o: 1.7 kB
+size of hello: 16.7 kB
+The final executable file is around 15 kB larger because it includes libraries, startup code, and linking information like address reference.

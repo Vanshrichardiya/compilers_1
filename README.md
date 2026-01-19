@@ -1,7 +1,11 @@
 Name: Chardiya Vanshribahen Rajeshbhai
+
 Roll Number: 23110074
+
 Email: 23110074@iitgn.ac.in
+
 Programming Language Used (Part 3): C
+
 
 Compilation Instructions:
 1. Open the terminal (Linux/WSL) and navigate to the directory containing tokenizer.c.

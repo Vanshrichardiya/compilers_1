@@ -12,12 +12,19 @@ Compilation Instructions:
 2. Compile the tokenizer using GCC:
    gcc tokenizer.c -o tokenizer
 3. Run the tokenizer with the test files:
+   
    ./tokenizer < public_test1.txt
+   
    ./tokenizer < public_test2.txt
+   
    ./tokenizer < public_test3.txt
-4. To generate the output files:
+   
+5. To generate the output files:
+   
    ./tokenizer < public_test1.txt > public_output1.txt
+   
    ./tokenizer < public_test2.txt > public_output2.txt
+   
    ./tokenizer < public_test3.txt > public_output3.txt
 
 Known Issues/Limitations:
